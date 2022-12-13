@@ -1,6 +1,6 @@
 <h1 align="center">Hello World👋🏻, I'm NXT</h1>
-<h3 align="center">Cyber Security Expert</h3>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif">
+<h3 align="center">Cyber Security Researcher & Defence Expert</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif">
 
 - 👨🏻‍💻 I am working on **Web & Software Security**
 
